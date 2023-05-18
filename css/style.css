@@ -475,6 +475,7 @@ header, footer {
 /* портфолио */
 .portfolio {
     background-color: var(--light-gray);
+    
 }
 
 .portfolio__inner {
@@ -548,6 +549,10 @@ header, footer {
     .portfolio__inner {
         grid-template-columns: repeat(2, 1fr);
         margin: 60px 0 20px;
+    }
+    
+    .portfolio {
+        height: 115vh;
     }
 
     .portfolio-item {
