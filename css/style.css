@@ -235,7 +235,7 @@ header, footer {
 }
 
 .about__content {
-    margin-top: 80px;
+    margin-top: 30px;
 }
 
 .about__content-text {
@@ -259,7 +259,7 @@ header, footer {
     }
 
     .about__content {
-        margin-top: 50px;
+        margin-top: 30px;
     }
 
     .about__content-text {
@@ -281,7 +281,7 @@ header, footer {
     }
 
     .about__content {
-        margin-top: 50px;
+        margin-top: 20px;
     }
 
     .about__content-text {
@@ -295,10 +295,11 @@ header, footer {
         background-image: none;
         height: 90vh;
     }
-
-    
     .about-tiitle {
         font-size: 32px;
+        margin-top: 10px;
+    }
+    .about__content {
         margin-top: 10px;
     }
 }
