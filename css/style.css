@@ -209,6 +209,13 @@ header, footer {
         z-index: 0;   
         padding: 1% 0% 10%;
     }
+    .about-tiitle {
+
+        font-size: 32px;
+
+        margin-top: 10px;
+
+    }
 }
 
 /* about */
