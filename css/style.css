@@ -701,7 +701,7 @@ header, footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 150px;
+    margin-top: 50px;
 }
 
 .request__form-input {
@@ -762,7 +762,7 @@ header, footer {
 
 @media (max-width: 520px) {
     .request {
-        height: 55vh;
+        height: 60vh;
     }
 
     .request__form-input {
