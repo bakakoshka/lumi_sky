@@ -1285,11 +1285,6 @@ details[open] summary::before {
     }
 }
 
-/* Ну привет))
-ахаха привет
-Давно не виделись
-Как дела? */
-
 /* slider CSS */
 .photo__slider {
     margin: 0 auto;
@@ -1500,9 +1495,12 @@ input[name="slide"] {
     width: 18px;
     height: 18px;
     border: 2px solid var(--yellow);
-    margin-left: -30px;
+    margin-left: -20px;
     margin-top: 3px;
 }
+
+.full label {
+    padding-left: 10px;
 
 .check-box:checked + .square::before {
     position: absolute;
@@ -1519,7 +1517,7 @@ input[name="slide"] {
     box-shadow: 0 0 3px var(--yellow);
 }
 
-/* adaptive страницы юронь*/
+/* adaptive страницы бронь*/
 
 @media (min-width: 1274px) {
     .booking__forma {
