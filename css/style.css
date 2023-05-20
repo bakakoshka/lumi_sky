@@ -1152,12 +1152,7 @@ details[open] summary::before {
 
 /* contacts adaptive */
 @media (max-width: 920px) {
-    /* .info-item i{
-        display: none;
-    }
-    .info {
-        padding: 3% 5%;
-    } */
+
     .info {
         padding: 3% 10%;
         flex-direction: column;
@@ -1211,8 +1206,6 @@ details[open] summary::before {
 
 .control-label {
     background: var(--yellow);
-    /* padding: 0.5rem 1rem; */
-    /* margin: 0.25rem; */
     padding: 0.6rem 1.1rem;
     margin: 0.3rem;
     border-radius: 0.7rem;
@@ -1498,9 +1491,6 @@ input[name="slide"] {
     margin-left: -20px;
     margin-top: 3px;
 }
-
-.full label {
-    padding-left: 10px;
 
 .check-box:checked + .square::before {
     position: absolute;
